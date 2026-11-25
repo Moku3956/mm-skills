@@ -1,0 +1,12 @@
+{
+  "name": "mm-skills",
+  "description": "Moku3956 のカスタムスキル用マーケットプレイス",
+  "owner": { "name": "Moku3956" },
+  "plugins": [
+    {
+      "name": "mm-skills",
+      "source": "./",
+      "description": "Moku3956 のカスタムスキル集"
+    }
+  ]
+}
